@@ -287,9 +287,9 @@ pip install -r requirements.txt
 
 ---
 
-#  Testing
+#  Testing:
 
-The project has been tested using
+The project had been tested using
 
 - Binance Futures Testnet
 - Python 3.x
