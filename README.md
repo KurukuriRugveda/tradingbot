@@ -67,9 +67,7 @@ trading_bot/
 
 ---
 
-#  Installation
-
-## Clone Repository
+## Clone Repositor
 
 ```bash
 git clone https://github.com/yourusername/binance-trading-bot.git
