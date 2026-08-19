@@ -28,7 +28,6 @@ The application follows clean software engineering practices by separating respo
 
  Command Line Interface (CLI)
 
- Modular Project Structure
 
 ---
 
