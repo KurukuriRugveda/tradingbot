@@ -1,6 +1,6 @@
 #  Binance Futures Trading Bot (Python CLI)
 
-A production-ready **Python Command Line Interface (CLI)** application that interacts with the **Binance USDT-M Futures Testnet API** to place **Market** and **Limit** orders securely.
+A production-ready **Python Command Line Interface (CLI)** application interacts with the **Binance USDT-M Futures Testnet API** to place **Market** and **Limit** orders securely.
 
 The application follows clean software engineering practices by separating responsibilities into different modules, validating user inputs, maintaining detailed logs, handling exceptions gracefully, and keeping API credentials secure using environment variables.
 
